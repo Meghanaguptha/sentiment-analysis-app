@@ -76,6 +76,4 @@ Feel free to submit issues or pull requests.
 
 This project is open-source under the MIT License.
 
-Author
 
-chiru5190
